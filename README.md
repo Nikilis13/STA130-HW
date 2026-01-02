@@ -1,0 +1,1 @@
+These are all the files relevent to my coursework in STA130 at the University of Toronto. The course explored statistical reasoning in data science and used tools such as jupyter notebook and matplotlib to further strengthen the understanding of the course material to students
